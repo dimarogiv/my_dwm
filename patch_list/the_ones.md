@@ -1,0 +1,70 @@
+- actualfullscreen (modified)
+- alt-tab
+- cfacts
+- combo
+cropwindows
+- cyclelayouts
+- dragmfact
+fakefullscreen
+horizontal-vertical-i3
+- inplacerotate
+- keychord
+keypressrelease
+leftstack
+moveresize
+- movestack
+- notallowed
+nrowgrid
+onlyquitonempty
+pertag
+- removeborder
+- restartsig
+- restoreafterrestart
+- rmaster
+rotatestack
+- scratchpad
+sticky
+- switchcol
+- tagintostack
+- tilegap
+tilewide
+- transfer
+uselessgap
+viewonrulestag
+winview
+
+## commands
+rebootcmd
+shutdowncmd
+
+## layouts
+- centeredmaster
+xtile
+- deck
+- fibonacci
+flextile
+bottomstack
+stairs
+- tatami
+columns
+gaplessgrid
+horizgrid
+
+
+## first 6
+tatami
+- centeredmaster
+- removeborder
+onlyquitonempty
+cropwindows
+- alt-tab
+
+
+## failed
+X goback
+C focusfullscreen
+X focusmaster
+C three-column
+X swallow
+C multikey
+C dynamicscratchpads
