@@ -13,7 +13,7 @@ keypressrelease
 leftstack
 moveresize
 - movestack
-+ notallowed
+- notallowed
 nrowgrid
 onlyquitonempty
 pertag

@@ -1,55 +1,55 @@
-actualfullscreen
-alt-tab
-bottomstack
-centeredmaster
-cfacts
-collumns
-combo
-cropwindows
-deck
-dragmfact
-dynamicscratchpads
-fakefullscreen
-fibonacci
-flextile
-focusfullscreen
-focusmaster
-gaplessgrid
-goback
-horizgrid
-horizontal-vertical-i3
-inplacerotate
-keychord
-keypressrelease
-leftstack
-moveresize
-movestack
-multikey
-notallowed
-nrowgrid
-onlyquitonempty
-pertag
-rebootcmd
-removeborder
-restartsig
-restoreafterrestart
-rmaster
-rotatestack
-scratchpad
-shutdowncmd
-stackmfact
-stairs
-sticky
-swallow
-swapfocus
-switchcol
-tagintostack
-tatami
-three-column
-tilegap
-tilewide
-transfer
-uselessgap
-viewonrulestag
-winview
-xtile
+* actualfullscreen
+* alt-tab
+* bottomstack
+* centeredmaster
+* cfacts
+* collumns
+* combo
+* cropwindows
+* deck
+* dragmfact
+* dynamicscratchpads
+* fakefullscreen
+* fibonacci
+* flextile
+* focusfullscreen
+* focusmaster
+* gaplessgrid
+* goback
+* horizgrid
+* horizontal-vertical-i3
+* inplacerotate
+* keychord
+* keypressrelease
+* leftstack
+* moveresize
+* movestack
+* multikey
+* notallowed
+* nrowgrid
+* onlyquitonempty
+* pertag
+* rebootcmd
+* removeborder
+* restartsig
+* restoreafterrestart
+* rmaster
+* rotatestack
+* scratchpad
+* shutdowncmd
+* stackmfact
+* stairs
+* sticky
+* swallow
+* swapfocus
+* switchcol
+* tagintostack
+* tatami
+* three-column
+* tilegap
+* tilewide
+* transfer
+* uselessgap
+* viewonrulestag
+* winview
+* xtile
